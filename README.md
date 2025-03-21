@@ -1,2 +1,0 @@
-# BasicRust
- Rust Basico

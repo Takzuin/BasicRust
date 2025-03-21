@@ -1,6 +1,0 @@
-[package]
-name = "Operaciones-Variables"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]

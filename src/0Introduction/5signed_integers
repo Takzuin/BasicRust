@@ -1,0 +1,13 @@
+//Signed integers o Tipos Escalares(i8, i16, i32, i64, i128)
+// i8 -> 8 bits
+// i16 -> 16 bits, etc...
+fn main() {
+    let x: i8 = 8;
+    let y: i16 = 32767;
+    let z: i32 = 2147483647;
+    let w: i64 = 9223372036854775807;
+    let v: i128 = 170141183460469231731687303715884105727;
+
+    println!("x: {}", x);
+    
+}
